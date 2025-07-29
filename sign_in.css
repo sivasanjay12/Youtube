@@ -185,7 +185,7 @@ select{
 .next{
     height: 80%;
     width: 80vw;
-  /* background-color: lightblue; */
+  background-color: lightblue;
   margin-top: -530px;
   margin-left: 30px;
 }
@@ -198,9 +198,12 @@ select{
     background-color: white;
     border: white;
 }
+button{
+    margin-left: 150px;
+}
 .help{
     display: flex;
-    margin-left: 40px;
+    margin-left: 20px;
 }
 body{
     background-color: white;

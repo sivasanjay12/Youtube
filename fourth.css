@@ -374,7 +374,7 @@ a{
 }
 .search{
     height: 35px;
-    width: 120px;
+    width: 100px;
     margin-left: -80px;
     font-size: 1.2rem;
      padding-left: 20px;
@@ -394,7 +394,7 @@ a{
     height: 35px;
     width: 80px;
     border-radius: 50px;
-    margin-left: -215px;
+    margin-left: -270px;
    font-size: 1rem;
    
 }
@@ -413,7 +413,7 @@ a{
     font-size: 1.2rem;
 }
 .vedio_content{
-    width: 300px;
+    width: 380px;
     height: 320px;
 }
 .menu2{
