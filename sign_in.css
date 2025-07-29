@@ -185,7 +185,7 @@ select{
 .next{
     height: 80%;
     width: 80vw;
-  background-color: lightblue;
+  /* background-color: lightblue; */
   margin-top: -530px;
   margin-left: 30px;
 }
